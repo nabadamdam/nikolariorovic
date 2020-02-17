@@ -16,7 +16,8 @@
 						<ul class="gtco-social-icons">
 							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
 							<li><a href="https://www.facebook.com/nikola.riorovic"><i class="icon-facebook"></i></a></li>
-							<li><a href="https://www.linkedin.com/in/nikola-riorovi%C4%87-651413188/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://www.linkedin.com/in/nikola-riorovi%C4%87-651413188/"><i class="icon-linkedin"></i></a></li></br>
+							<li><a href="Dokumentacija.pdf">Dokumentacija</a></li>
 						</ul>
 					</div>
 				</div>
