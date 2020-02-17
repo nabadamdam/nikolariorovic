@@ -1,0 +1,3 @@
+ErrorDocument 404 http://localhost/php2prviSajt/index.php?page=404
+ErrorDocument 403 http://localhost/php2prviSajt/index.php?page=403
+ErrorDocument 301 http://localhost/php2prviSajt/index.php?page=301

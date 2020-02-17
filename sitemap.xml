@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+		<loc>http://savory.epizy.com/index.php?page=Home</loc>
+		<lastmod>2020-02-17</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+</url>
+<url>
+		<loc>http://savory.epizy.com/index.php?page=Menu</loc>
+		<lastmod>2020-02-17</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+</url>
+<url>
+		<loc>http://savory.epizy.com/index.php?page=Services</loc>
+		<lastmod>2020-02-17</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.5</priority>
+</url>
+<url>
+		<loc>http://savory.epizy.com/index.php?page=Contact</loc>
+		<lastmod>2020-02-17</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+</url>
+<url>
+		<loc>http://savory.epizy.com/index.php?page=Author</loc>
+		<lastmod>2020-02-17</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.8</priority>
+</url>
+<url>
+		<loc>http://savory.epizy.com/index.php?page=Contact&Registration</loc>
+		<lastmod>2020-02-17</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+</url>
+</urlset>
