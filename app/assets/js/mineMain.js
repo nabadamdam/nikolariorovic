@@ -341,7 +341,6 @@ function proveraPodatakaContact(){
     var message = document.getElementById("message").value;
     var reIme= /^([A-Z][a-z]{2,11})+$/;
     var reEmail = /^\b[\w.-]+@[\w.-]+(\.[\w.-]+)*\.[A-Za-z]{2,4}\b$/;
-    var reMessage = /^[A-Za-z0-9.]{5,1000}$/;
     var greske = [];
     console.log(message);
     if(!reIme.test(ime)){
@@ -353,7 +352,7 @@ function proveraPodatakaContact(){
         document.getElementById("name").style.border ="1px solid green";
         document.getElementById("errorName1").innerHTML= "";
     }
-    if(!reMessage.test(message)){
+    if(message==""){
         greske.push(message);
         document.getElementById("message").style.border ="1px solid red";
         document.getElementById("errorMessage").innerHTML ="You didn't enter a message well! </br></br>";
