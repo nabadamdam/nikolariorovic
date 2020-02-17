@@ -2,6 +2,14 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-115412425-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-115412425-1');
+	</script>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Savory restaurant</title>
